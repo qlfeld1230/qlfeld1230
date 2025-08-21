@@ -25,7 +25,7 @@
 ###
 | 제목 | 기술스택 | 기간 | 링크 |
 |:--|:--|:--|:--|
-| project-20_hill | Java, Spring Boot, JPA, SQLite | 2023.07 ~ 2023.09 | [Repo](https://github.com/qlfeld1230/project-20_hill) |
+| project-20_hill | Java, Spring Boot, JPA, MySQL | 2023.07 ~ 2023.09 | [Repo](https://github.com/qlfeld1230/project-20_hill) |
 | E-ro-Emotional-robot | Python, Raspberry Pi, OpenCV, TensorFlow  | 2023.09 ~ 2023.11 | [Repo](https://github.com/qlfeld1230/E-ro-Emotional-robot) |
 | Erasure-Guidance-Center | Python, DJango | 2024.10 ~ 2024.12 | [Repo](https://github.com/qlfeld1230/Erasure-Guidance-Center) |
 
