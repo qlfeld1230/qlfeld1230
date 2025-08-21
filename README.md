@@ -19,7 +19,19 @@
 
 <p>&nbsp;</p>
 
----
+<table>
+  <tr><th align="left">🛠 기술 스택</th></tr>
+  <tr><td>
+    <p>
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+    </p>
+  </td></tr>
+</table>
+<p>&nbsp;</p> <!-- 박스 아래 여백 -->
+
 
 ## 📌 프로젝트
 
