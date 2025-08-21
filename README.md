@@ -19,7 +19,9 @@
 
 <p>&nbsp;</p>
 
----
+##
+
+###
 
 ## 📌 프로젝트
 
@@ -32,7 +34,9 @@
 
 <p>&nbsp;</p>
 
----
+##
+
+###
 
 ## 📊 GitHub Stats
 
@@ -44,6 +48,9 @@
 <p>&nbsp;</p>
 <br>
 
+##
+
+###
 
 <p>
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=qlfeld1230" alt="Solved.ac Profile" />
@@ -56,10 +63,10 @@
 
 ###
 <p align="left">
-  qlfeld1324@gmail.com
-  <a href="mailto:qlfeld1324@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:qlfeld1324@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="mailto:qlfeld1324@gmail.com"><code>qlfeld1324@gmail.com</code></a>
 </p>
 
 <p>&nbsp;</p>
