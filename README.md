@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
 </p>
 
+<p>&nbsp;</p>
 ---
 
 ### 프로젝트명
@@ -21,20 +22,22 @@
 | E-ro-Emotional-robot | Python, Raspberry Pi, OpenCV, TensorFlow  | 2023.09 ~ 2023.11 | [Repo](https://github.com/your-id/project-b) |
 | Erasure-Guidance-Center | Python, DJango | 2024.10 ~ 2024.12 | [Repo](https://github.com/your-id/project-c) |
 
+<p>&nbsp;</p>
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlfeld1230&layout=compact&theme=radical" alt="langs" />
 </p>
 
+<p>&nbsp;</p>
 ---
 
 <p>
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=qlfeld1230" alt="Solved.ac Profile" />
 </p>
 
-___
+<p>&nbsp;</p>
 ### 🔗 연락처
 <p align="left">
   <a href="mailto:qlfeld1324@gmail.com" target="_blank">
