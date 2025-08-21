@@ -3,6 +3,8 @@
   <p>읽기 쉬운 API와 안정적인 배포, 데이터를 기반으로 개선하는 개발을 지향합니다.</p>
 </div>
 
+<p>&nbsp;</p>
+
 ### 🛠 기술 스택
 <p>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
@@ -23,6 +25,8 @@
 | Erasure-Guidance-Center | Python, DJango | 2024.10 ~ 2024.12 | [Repo](https://github.com/your-id/project-c) |
 
 <p>&nbsp;</p>
+<br>
+
 ---
 
 ### 📊 GitHub Stats
@@ -31,6 +35,8 @@
 </p>
 
 <p>&nbsp;</p>
+<br>
+
 ---
 
 <p>
@@ -38,6 +44,8 @@
 </p>
 
 <p>&nbsp;</p>
+<br>
+
 ### 🔗 연락처
 <p align="left">
   <a href="mailto:qlfeld1324@gmail.com" target="_blank">
