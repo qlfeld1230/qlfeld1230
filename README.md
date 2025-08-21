@@ -30,7 +30,7 @@
 | Erasure-Guidance-Center | Python, DJango | 2024.10 ~ 2024.12 | [Repo](https://github.com/your-id/project-c) |
 
 <p>&nbsp;</p>
-
+<p>&nbsp;</p>
 
 ## 📊 GitHub Stats
 
@@ -40,7 +40,7 @@
 </p>
 
 <p>&nbsp;</p>
-<br>
+<p>&nbsp;</p>
 
 ## 📝 백준 문제풀이
 
@@ -52,8 +52,13 @@
 
 <p>&nbsp;</p>
 
-|:--|:--
-| 백준 문제풀이 | [Repo]([https://github.com/qlfeld1230/project-20_hill](https://github.com/qlfeld1230/BOJ_solved)) |
+| 항목 | 링크 |
+|:--|:--|
+| 백준 문제풀이 | [Repo](https://github.com/qlfeld1230/BOJ_solved) |
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ## 🔗 연락처
 
