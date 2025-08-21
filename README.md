@@ -19,19 +19,7 @@
 
 <p>&nbsp;</p>
 
-<table>
-  <tr><th align="left">🛠 기술 스택</th></tr>
-  <tr><td>
-    <p>
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
-    </p>
-  </td></tr>
-</table>
-<p>&nbsp;</p> <!-- 박스 아래 여백 -->
-
+---
 
 ## 📌 프로젝트
 
@@ -56,7 +44,6 @@
 <p>&nbsp;</p>
 <br>
 
----
 
 <p>
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=qlfeld1230" alt="Solved.ac Profile" />
@@ -64,11 +51,15 @@
 
 <p>&nbsp;</p>
 
----
 
-### 🔗 연락처
+## 🔗 연락처
+
+###
 <p align="left">
+  qlfeld1324@gmail.com
   <a href="mailto:qlfeld1324@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<p>&nbsp;</p>
