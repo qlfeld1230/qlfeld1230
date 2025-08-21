@@ -49,16 +49,11 @@
 <p>
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=qlfeld1230" alt="Solved.ac Profile" />
 
-  | 항목 | 링크 |
+  | 제목 | 링크 |
 |:--|:--|
 | 백준 문제풀이 | [Repo](https://github.com/qlfeld1230/BOJ_solved) |
 
 </p>
-
-<p>&nbsp;</p>
-
-
-
 
 <p>&nbsp;</p>
 
