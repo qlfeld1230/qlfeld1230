@@ -1,15 +1,14 @@
 <div align="center">
   <h1>사용자 가치에 집중하는 백엔드/풀스택 개발자</h1>
-  <p>"읽기 쉬운 API와 안정적인 배포, 데이터를 기반으로 개선하는 개발을 지향합니다."</p>
+  <p>"읽기 쉬운 API와 안정적인 배포, 데이터를 기반으로 개선하는 개발을 지향합니다"</p>
 </div>
 
 <p>&nbsp;</p>
 <br>
 
-### 🛠 기술 스택
+## 🛠 기술 스택
 
----
-
+### 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />&nbsp;&nbsp;
@@ -22,7 +21,9 @@
 
 ---
 
-### 📌 프로젝트
+## 📌 프로젝트
+
+###
 | 제목 | 기술스택 | 기간 | 링크 |
 |:--|:--|:--|:--|
 | project-20_hill | Java, Spring Boot, JPA, SQLite | 2023.07 ~ 2023.09 | [Repo](https://github.com/qlfeld1230/project-20_hill) |
@@ -33,7 +34,9 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+###
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qlfeld1230&layout=compact&theme=radical" alt="langs" />
 </p>
